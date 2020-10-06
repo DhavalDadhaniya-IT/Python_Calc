@@ -118,4 +118,4 @@ self._view.buttons['C'].clicked.connect(self._view.clearDisplay)
 ```
 
 # Actual Output of the code looks like this:
-![Screenshot](Capture.png)
+![Screenshot](Capture.PNG)
